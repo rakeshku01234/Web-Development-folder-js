@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+
+}
+.bat-button{
+  background-color: aqua; 
+padding:5px 15px;
+border-radius: 3px;
+
+}
+.ball-button{
+   background-color: aquamarine;
+    padding:5px 15px;
+    border-radius: 3px;
+    
+
+    }
+
+    .stump-button{
+   background-color: bisque;
+        padding:5px 15px;
+        border-radius: 3px;
+        }
+
+

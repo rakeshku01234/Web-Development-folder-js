@@ -1,0 +1,69 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+
+}
+.bat-button{
+  background-color: lightgreen; 
+  border: none;
+height: 200px;
+width: 200px;
+margin: 10px;
+border-radius: 50%;
+cursor: pointer;
+    
+
+}
+.image-button{
+  height: 85px; ;
+}
+.ball-button{
+  background-color: lightgreen; 
+  border: none;
+height: 200px;
+width: 200px;
+margin: 10px;
+
+border-radius: 50%;
+cursor: pointer;
+    
+
+
+    }
+
+    .stump-button{
+      background-color: lightgreen; 
+      border: none;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    
+    
+        }
+        .reset{
+          background-color: bisque;
+          height: 30px;
+          width: 80px;
+               margin-top: 260px; 
+               padding: auto;
+               border:  2px black solid;
+               cursor: pointer;
+
+               }
+
+         .image{
+          height: 150px;
+          width: 150px;
+          padding-left:px ;
+         }
+         .image1{
+          height: 150px;
+
+         }
+         .image2{
+          height: 150px;
+          width: 150px;  
+          
+         }

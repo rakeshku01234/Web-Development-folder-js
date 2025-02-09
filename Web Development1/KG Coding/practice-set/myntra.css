@@ -1,0 +1,22 @@
+body{
+    margin: 0;  
+  }
+  .bag-button{
+      background-color: lightgreen;
+      padding: 5px 15px;
+      margin: 10px;
+      align-items: center;
+      border-radius: 15px;
+      border: none;
+      color:black;
+  }
+  .wish-button{
+    background-color: lightgreen;
+    padding: 5px 35px;
+    border: 2px black solid;
+    margin: 10px;
+    align-items: center;
+    border-radius: 15px;
+    text-transform: uppercase;
+    color:black;
+  }

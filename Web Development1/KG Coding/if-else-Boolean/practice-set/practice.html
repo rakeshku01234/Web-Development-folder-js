@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>metro Ticketing </title>
+</head>
+<body>
+    <script>
+        let age = 190;
+        let Gender = 'female' ;
+        let finalDicount;
+  if(age <= 5){
+   finalDicount = 100;
+  }
+  else if (Gender === 'female' || age <= 8  ){
+         finalDicount = 50;
+        }
+  else if (age >= 65){
+    finalDicount = 30;
+    
+  }
+  else{
+    finalDicount = 0;
+
+  }
+    console.log(`your final discount is ${finalDicount}`)    
+
+    </script>
+</body>
+</html>
